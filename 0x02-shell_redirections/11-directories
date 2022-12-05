@@ -1,2 +1,2 @@
-#!/bin/bas
-find . -mindepth 1 -type d | wc -|
+#!/bin/bash
+find . -mindepth 1 -type d | wc -i|
